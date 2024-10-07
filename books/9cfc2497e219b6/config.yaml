@@ -1,0 +1,13 @@
+title: ""
+summary: ""
+topics: []
+published: false
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - network-overview
+  - network-protocol
+  - card-create
+  - iso8583-implement
+  - network-implement
+
