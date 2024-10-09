@@ -2,6 +2,7 @@
 title: "ISO8583の実装"
 ---
 
+
 ## 固定長フォーマットと可変長フォーマット
 
 ## MTI(Message Type Identifier)
