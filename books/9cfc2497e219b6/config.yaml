@@ -9,6 +9,7 @@ chapters:
   - network-protocol
   - card-create
   - iso8583-implement
-  - network-implement
+  - issuer-network-implement
+  - acquirer-network-implement
   - end
 
